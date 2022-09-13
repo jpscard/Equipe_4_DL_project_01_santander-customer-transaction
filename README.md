@@ -7,4 +7,4 @@ Repositório criado pela equipe 4 para o desafio do kaggle Santander Customer Tr
 * Manoel Campos	| Windows |	Google Colab (Jupyter) | Python 3.7.13
 
 ## Links úteis
-[Base de dados utilizada](https://www.kaggle.com/competitions/santander-customer-transaction-prediction)
+[Base de dados utilizado](https://www.kaggle.com/competitions/santander-customer-transaction-prediction)
